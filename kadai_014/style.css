@@ -1,11 +1,16 @@
-body{
-    text-align: center;
+html{
     font-size: 20px;
-    font-family: "Arial", "Meiryo", sans-serif;    
+    text-align: center;
+}
+body{
+    font-family: "Arial", "Meiryo", sans-serif;
 }
 #first-heading{
-    text-decoration:underline;
-    color: ;
+    border-bottom: solid 3px rgb(115, 115, 114);
+    text-shadow: 1px 1px 2px gray;
+    font-family: "Josefin Sans",sans-serif;
+    letter-spacing: 1.2em;
+
 }
 .text-pink{
     color:rgb(255, 192, 203)
