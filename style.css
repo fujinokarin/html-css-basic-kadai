@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Arial", "Meiryo", sans-serif;    
+}
+#first-heading{
+    text-decoration:underline;
+    color: ;
+}
+.text-pink{
+    color:rgb(255, 192, 203)
+}
+.text-blue{
+    color: skyblue;
+}
